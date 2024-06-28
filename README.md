@@ -1,4 +1,4 @@
-*BHC Smart Housing App*
+**BHC Smart Housing App**
 
 This repository contains the front-end codebase for the Botswana Housing Corporation (BHC) Smart Housing App developed using React Native and Expo.
 
@@ -23,14 +23,13 @@ Installation
 Clone the repository:
 
 git clone https://github.com/Bugitoy/BHC-Hackathon-Project.git
+
 cd BHC-Hackathon-Project
 
 Install Expo CLI globally:
-
 npm install -g expo-cli
 
 Install dependencies:
-
 npm install
 
 Running the App
@@ -39,7 +38,6 @@ Start the Expo server:
 npx expo start -c
 
 Open the Expo Go app on your mobile device.
-
 Scan the QR code displayed in the terminal to view the app.
 
 Tech Stack
